@@ -1,0 +1,12 @@
+streamlit
+librosa
+soundfile
+numpy
+scipy.signal
+torch
+transformers 
+nltk
+langchain_community
+
+
+# - Ollama pull mistral
