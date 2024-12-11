@@ -3,6 +3,7 @@ librosa
 soundfile
 numpy
 scipy
+ffmpeg
 torch
 transformers 
 nltk
